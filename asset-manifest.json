@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/:/Ghostik-gh.github.io/react-movies-info/static/css/main.217c2269.css",
-    "main.js": "/:/Ghostik-gh.github.io/react-movies-info/static/js/main.83865c04.js",
-    "index.html": "/:/Ghostik-gh.github.io/react-movies-info/index.html",
-    "main.217c2269.css.map": "/:/Ghostik-gh.github.io/react-movies-info/static/css/main.217c2269.css.map",
-    "main.83865c04.js.map": "/:/Ghostik-gh.github.io/react-movies-info/static/js/main.83865c04.js.map"
+    "main.css": "/react-movies-info/static/css/main.217c2269.css",
+    "main.js": "/react-movies-info/static/js/main.83865c04.js",
+    "index.html": "/react-movies-info/index.html",
+    "main.217c2269.css.map": "/react-movies-info/static/css/main.217c2269.css.map",
+    "main.83865c04.js.map": "/react-movies-info/static/js/main.83865c04.js.map"
   },
   "entrypoints": [
     "static/css/main.217c2269.css",
